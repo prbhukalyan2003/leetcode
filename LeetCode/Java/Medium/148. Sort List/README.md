@@ -1,6 +1,6 @@
 # 📝 148. Sort List (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/sort-list)
+🔗 [Problem Link](https://leetcode.com/problems/sort-list/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
